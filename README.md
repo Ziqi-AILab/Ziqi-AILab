@@ -20,7 +20,7 @@
   I am a PhD researcher in AI + Chemistry, developing language-model-based scientific foundation models
   and studying how knowledge learned from small molecules can transfer to polymers.<br>
   My work spans pretraining, continued pretraining, and post-training; in parallel, I study broader
-  LLM post-training, test-time training, memory, and GUI agents.
+  LLM post-training, test-time training, memory, and Multi agents.
 </p>
 
 <p align="center">
@@ -55,9 +55,9 @@
 </td>
 <td width="50%" valign="top">
 
-<h3>🖥️ Memory, RAG &amp; GUI Agents</h3>
+<h3>🖥️ Memory, RAG &amp; Multi Agents</h3>
 
-<p>Studying external, session, and parametric memory; retrieval and runtime routing; and GUI agents that combine screenshot/UI-hierarchy perception, protocol-state planning, structured tool use, invariant checks, and failure recovery within a stateful harness.</p>
+<p>Studying external, session, and parametric memory; retrieval and runtime routing; and Multi agents that combine screenshot/UI-hierarchy perception, protocol-state planning, structured tool use, invariant checks, and failure recovery within a stateful harness.</p>
 
 </td>
 </tr>
