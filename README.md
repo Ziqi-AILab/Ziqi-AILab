@@ -5,8 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:Ziqi.Wang@liverpool.ac.uk / Ziqi.Wang21@student.xjtlu.edu.cn">
-    <img src="https://img.shields.io/badge/Email-Ziqi.Wang%40liverpool.ac.uk-1f6feb?style=flat-square" alt="Email">
+  <a href="mailto:Ziqi.Wang@liverpool.ac.uk">
+    <img src="https://img.shields.io/badge/Liverpool-Ziqi.Wang%40liverpool.ac.uk-1f6feb?style=flat-square" alt="University of Liverpool Email">
+  </a>
+  <a href="mailto:Ziqi.Wang21@student.xjtlu.edu.cn">
+    <img src="https://img.shields.io/badge/XJTLU-Ziqi.Wang21%40student.xjtlu.edu.cn-7a3e9d?style=flat-square" alt="XJTLU Email">
   </a>
   <a href="https://github.com/Ziqi-AILab?tab=repositories">
     <img src="https://img.shields.io/badge/Research-Code-181717?style=flat-square&logo=github&logoColor=white" alt="Research Code">
