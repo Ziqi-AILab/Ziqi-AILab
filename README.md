@@ -1,7 +1,7 @@
 <h1 align="center">Ziqi Wang</h1>
 
 <p align="center">
-  <strong>Small-Molecule-to-Polymer Foundation Models · LLM Post-Training</strong>
+  <strong>PhD Research in AI + Chemistry · Domain Foundation Models · LLM Post-Training</strong>
 </p>
 
 <p align="center">
@@ -17,14 +17,18 @@
 </p>
 
 <p align="center">
-  I am a PhD researcher in cheminformatics, developing LLM-based foundation models from small molecules to polymers.<br>
-  Alongside this domain research, I work on LLM post-training, memory, runtime adaptation, and agentic systems.
+  I am a PhD researcher in AI + Chemistry, developing language-model-based scientific foundation models
+  and studying how knowledge learned from small molecules can transfer to polymers.<br>
+  My work spans pretraining, continued pretraining, and post-training; in parallel, I study broader
+  LLM post-training, test-time training, memory, and GUI agents.
 </p>
 
 <p align="center">
-  <code>Pretraining</code> ·
-  <code>Post-Training</code> ·
-  <code>Harness</code>
+  <code>Pretraining</code> →
+  <code>Continued Pretraining</code> →
+  <code>Post-Training</code> →
+  <code>Runtime Adaptation</code> →
+  <code>Agents &amp; Harnesses</code>
 </p>
 
 ---
@@ -33,37 +37,53 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### 🧪 Cheminformatics & Small-Molecule-to-Polymer Foundation Models
+<h3>🧪 AI + Chemistry: Small-Molecule-to-Polymer Foundation Models</h3>
 
-Developing scientific foundation models through domain corpus curation, tokenizer–structure alignment, small-molecule pretraining, molecule-to-polymer continued pretraining, polymer-domain post-training, and memory-based adaptation.
-
-A central question is how chemical knowledge can be encoded, transferred, retained, and updated in language models.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 LLM Post-Training
-
-Developing and evaluating post-training methods for both general-purpose and scientific LLMs, including knowledge distillation, supervised adaptation, LoRA and DoRA, preference optimization, synthetic supervision, and controlled model updates.
+<p>My PhD project develops domain foundation models across the full lifecycle: corpus curation and tokenizer–structure audit, small-molecule pretraining, molecule-to-polymer continued pretraining, and polymer-domain post-training with distillation, PEFT, preference optimization, and structured memory. The motivation is to transfer reusable chemical knowledge from small-molecule corpora to polymer domains with different sequence and structural distributions.</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Memory & Runtime Adaptation
+<h3>🧠 LLM Post-Training &amp; Test-Time Adaptation</h3>
 
-Studying retrieval-augmented generation, parametric and session memory, test-time training, test-time scaling, and runtime routing—when a model should read, retrieve, reason, update, or act.
+<p>Working across offline and runtime adaptation: knowledge distillation, supervised adaptation, LoRA/DoRA/soft prompts, DPO, synthetic supervision, and query-local TTT with removable parameter states, self-supervised objectives, selective updates, accept/rollback, and verifier-guided test-time scaling.</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧰 LLM Agents & Harnesses
+<h3>🖥️ Memory, RAG &amp; GUI Agents</h3>
 
-Building reliable agent systems with tool use, GUI interaction, stateful execution, verification, permission boundaries, and failure recovery for complex multi-step workflows.
+<p>Studying external, session, and parametric memory; retrieval and runtime routing; and GUI agents that combine screenshot/UI-hierarchy perception, protocol-state planning, structured tool use, invariant checks, and failure recovery within a stateful harness.</p>
 
 </td>
 </tr>
 </table>
+
+## Selected Research Code
+
+| Project | Focus |
+|---|---|
+| **[AuraESG](https://github.com/Ziqi-AILab/AuraESG)** · [Paper](https://www.sciencedirect.com/science/article/pii/S0020025526005785) | Multi-stage LLM post-training with knowledge infusion, contrastive learning, DoRA, DPO, and uncertainty-aware routing. |
+| **[SymForce](https://github.com/Ziqi-AILab/SymForce)** | LLM-guided iterative physical reasoning for molecular conformation generation. |
+| **[Descriptor-Guided Molecular Pretraining](https://github.com/Ziqi-AILab/paper101)** | Molecular representation learning with descriptor-guided conditional computation and reproducible evaluation. |
+
+## Research Engineering
+
+<p align="center">
+  <code>PyTorch</code> ·
+  <code>Transformers</code> ·
+  <code>Accelerate</code> ·
+  <code>PEFT</code> ·
+  <code>PyTorch Geometric</code> ·
+  <code>CUDA</code> ·
+  <code>Slurm</code>
+</p>
+
+<p align="center">
+  Configuration-driven experiments · Matched baselines · Low-label/OOD evaluation ·
+  Multi-seed ablations · Checkpoint/resume · Latency and GPU-cost accounting
+</p>
