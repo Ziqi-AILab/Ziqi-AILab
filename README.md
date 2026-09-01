@@ -1,7 +1,7 @@
 <h1 align="center">Ziqi Wang</h1>
 
 <p align="center">
-  <strong>Cheminformatics · Small-Molecule-to-Polymer Foundation Models · LLM Post-Training</strong>
+  <strong>Small-Molecule-to-Polymer Foundation Models · LLM Post-Training</strong>
 </p>
 
 <p align="center">
