@@ -23,11 +23,8 @@
 
 <p align="center">
   <code>Pretraining</code> ·
-  <code>Continued Pretraining</code> ·
   <code>Post-Training</code> ·
-  <code>Memory</code> ·
-  <code>Runtime Adaptation</code> ·
-  <code>Agents</code>
+  <code>Harness</code>
 </p>
 
 ---
