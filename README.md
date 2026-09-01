@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:Ziqi.Wang@liverpool.ac.uk">
+  <a href="mailto:Ziqi.Wang@liverpool.ac.uk / Ziqi.Wang21@student.xjtlu.edu.cn">
     <img src="https://img.shields.io/badge/Email-Ziqi.Wang%40liverpool.ac.uk-1f6feb?style=flat-square" alt="Email">
   </a>
   <a href="https://github.com/Ziqi-AILab?tab=repositories">
