@@ -19,7 +19,6 @@
 <p align="center">
   I am a <strong>PhD student</strong> working on <strong>LLM post-training, test-time training, and memory</strong>.<br>
   My experience also spans <strong>domain pretraining and continued pretraining</strong>, retrieval, and agent systems.<br>
-  <sub>Previously: LLM Algorithm Research Intern at <strong>Bosch Central Research Institute</strong>.</sub>
 </p>
 
 <p align="center">
