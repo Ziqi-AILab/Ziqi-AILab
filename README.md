@@ -29,16 +29,4 @@ I am a **PhD student** working on **LLM post-training, test-time training, memor
 
 In my PhD project, **I focus on machine learning and deep learning** for polymer design; **our research group has wet-lab capabilities for experimental validation**.
 
-## Papers and Projects
-
-| Project | Research focus | Links |
-|---|---|---|
-| **AuraESG** | **LLM post-training** · DoRA · DPO · knowledge infusion | **[Code](https://github.com/Ziqi-AILab/AuraESG)** · [Paper](https://www.sciencedirect.com/science/article/pii/S0020025526005785) |
-| **Chemical Support & Memory Reuse** | **Memory reuse** · molecule-to-polymer transfer analysis | **[Analysis code](https://github.com/Ziqi-AILab/paper105)** |
-| **Descriptor-Guided Molecular Pretraining** | **Pretraining** · descriptor-guided conditional computation | **[Code](https://github.com/Ziqi-AILab/paper101)** |
-| **SymForce** | **LLM-guided physical reasoning** · molecular conformation generation | **[Code](https://github.com/Ziqi-AILab/SymForce)** |
-| **Test-Time Training** | **Test-time updates** for LLMs | **[Code (ZIP)](https://github.com/Ziqi-AILab/TTT)** |
-
-[**Browse all repositories →**](https://github.com/Ziqi-AILab?tab=repositories)
-
 <sub><strong>Stack:</strong> PyTorch · Transformers · PEFT · Accelerate · PyTorch Geometric · CUDA · Slurm</sub>
