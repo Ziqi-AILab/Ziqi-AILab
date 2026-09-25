@@ -16,7 +16,7 @@
   </a>
 </p>
 
-I am a **PhD student** working on **LLM post-training, test-time training, memory, and agent systems**.
+I am a **PhD student** working on **LLM post-training, test time training, memory, agent systems and AI4Chem pre-training**.
 
 ## Research Focus
 
@@ -27,6 +27,5 @@ I am a **PhD student** working on **LLM post-training, test-time training, memor
 | 💾 **LLM Memory & RAG** | **External and parametric memory**, retrieval, and long-context reasoning. |
 | 🤖 **Agents & Harnesses** | **Multi-agent coordination**, tool use, GUI execution, and recovery. |
 
-In my PhD project, **I focus on machine learning and deep learning** for polymer design; **our research group has wet-lab capabilities for experimental validation**.
+In my PhD group, **I focus on machine learning and deep learning** for polymer design; **our research group has wet-lab capabilities for experimental validation**.
 
-<sub><strong>Stack:</strong> PyTorch · Transformers · PEFT · Accelerate · PyTorch Geometric · CUDA · Slurm</sub>
