@@ -23,9 +23,8 @@ I am a **PhD student** working on **LLM post-training, test time training, memor
 | Direction | Focus |
 |---|---|
 | 🧪 **AI for Chemistry · PhD** | **Pretraining → continued pretraining → post-training** for small-molecule-to-polymer models. |
-| 🧠 **LLM Post-Training & TTT** | **SFT · distillation · LoRA/DoRA · DPO**, plus test-time parameter updates. |
-| 💾 **LLM Memory & RAG** | **External and parametric memory**, retrieval, and long-context reasoning. |
-| 🤖 **Agents & Harnesses** | **Multi-agent coordination**, tool use, GUI execution, and recovery. |
+| <img src="assets/llm-post-training.png" width="40" height="40" align="absmiddle" alt=""> **LLM Post-Training & TTT** | **SFT · distillation · LoRA/DoRA · DPO**, plus test-time parameter updates. |
+| <img src="assets/memory-runtime.png" width="40" height="40" align="absmiddle" alt=""> **LLM Memory & RAG** | **External and parametric memory**, retrieval, and long-context reasoning. |
+| <img src="assets/llm-agents.png" width="40" height="40" align="absmiddle" alt=""> **Agents & Harnesses** | **Multi-agent coordination**, tool use, GUI execution, and recovery. |
 
 In my PhD group, **I focus on machine learning and deep learning** for polymer design; **our research group has wet-lab capabilities for experimental validation**.
-
